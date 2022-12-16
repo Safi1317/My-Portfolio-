@@ -44,7 +44,7 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
         flex: wrap;}
 
  .hero img{ 
-    width: 50%; 
+    width: 100%; 
     height: 300px; } 
     
  .hero {
@@ -52,14 +52,14 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     flex-wrap: wrap;
     border: 10px solid pink;
     }
-   #work{
-    width: 70%;
-  }  
+ .hero a{
+    width: 50%;
+ }
 
  .best{
  margin: 30px;
  padding:20px ;
- width: 300px;
+ width: 220px;
  background-color: pink;}
  
    

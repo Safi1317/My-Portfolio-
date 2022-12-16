@@ -1,5 +1,14 @@
 # My-Portfolio-
 
-# screenshot
+The My-Portfolio webpage includes a recent profile image,navigation bar, a header,images with text, previous projects URLs and screenshots. 
 
-# features
+# Screenshot
+
+![screenshot of Portfolio](./assets/images/Portfolio.png)
+
+# Features
+- Header
+- Navigation bar
+- Sidebar
+- Images
+- URLs
