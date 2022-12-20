@@ -62,4 +62,30 @@ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
  width: 220px;
  background-color: pink;}
  
+ @media screen and (max-width: 1300px) {
+   .best {
+      justify-content: center;
+      width: 100%;
+   }
+
+   .image1 {
+      display: flex;
+      justify-content: center;
+      height: 400px;
+      width: 400px;
+   }
+   .page-wrapper{
+      flex-wrap: wrap;
+   }
+   #work {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+   }
+   #happy {
+      display: flex;
+      
+   }
+}
+
    
